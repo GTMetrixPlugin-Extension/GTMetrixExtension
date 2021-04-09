@@ -11,10 +11,9 @@ assignees: ''
 
 **Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Open the extension
+2. Do '...'
+3. Watch as error occurs.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
