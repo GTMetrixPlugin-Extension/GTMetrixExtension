@@ -3,7 +3,7 @@
 
   "name": "GTmetrix Analyzer Plugin",
   "description": "This extension will analyze a page's speed using GTmetrix.",
-  "version": "3.1.1",
+  "version": "3.1.2",
 
   "browser_action": {
    "default_icon": "websitespeedcheck.png",
